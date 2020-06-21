@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130.734" height="39.781" viewBox="0 0 130.734 39.781">
+    <g id="prefix__Icon" transform="translate(-358.409 -308.063)">
+        <g id="prefix__Group_620" data-name="Group 620" transform="translate(358.409 308.063)">
+            <path id="prefix__Path_357" d="M480.145 499.32v11.24a4.456 4.456 0 01-4.456 4.456h-25.923l6.793-6.748h13.8c2.122 0 3.112-1.747 3.112-3.87v-5.078z" data-name="Path 357" transform="translate(-440.299 -479.5)"/>
+            <path id="prefix__Path_358" d="M393.8 308.063h-30.935a4.456 4.456 0 00-4.456 4.456v13.223h6.634v-7.993a3.016 3.016 0 013.015-3.016h20.51a3.015 3.015 0 013.015 3.016v1.35h6.671v-6.58a4.456 4.456 0 00-4.454-4.456z" data-name="Path 358" transform="translate(-358.409 -308.063)"/>
+            <path id="prefix__Path_359" d="M388.379 414.937l-28.288 28.415a.938.938 0 01-1.609-.693l-.073-18.933h6.6v5.166l13.978-13.954z" data-name="Path 359" transform="translate(-358.409 -403.862)" style="fill:#ed4d67"/>
+        </g>
+        <text id="prefix__salesken" transform="translate(409.143 332.064)" style="font-size:20px;font-family:Roboto-Regular,Roboto;fill:#eb384f">
+            <tspan x="0" y="0" style="fill:#000">sales</tspan><tspan y="0" style="fill:#eb384f">ken</tspan>
+        </text>
+    </g>
+</svg>

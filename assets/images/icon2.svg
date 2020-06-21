@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="441" height="10" viewBox="0 0 441 10">
+    <defs>
+        <style>
+            .prefix__cls-4{fill:none}.prefix__cls-2{fill:#f7657d;stroke:#fff}.prefix__cls-3{stroke:none}
+        </style>
+    </defs>
+    <g id="prefix__Group_11336" data-name="Group 11336" transform="translate(-70 -411)">
+        <path id="prefix__Line_1410" d="M0 0L435 0" data-name="Line 1410" transform="translate(75.5 416.5)" style="stroke:#707070;stroke-dasharray:3;fill:none"/>
+        <g id="prefix__Ellipse_390" class="prefix__cls-2" data-name="Ellipse 390" transform="translate(70 411)">
+            <circle cx="5" cy="5" r="5" class="prefix__cls-3"/>
+            <circle cx="5" cy="5" r="4.5" class="prefix__cls-4"/>
+        </g>
+        <g id="prefix__Ellipse_391" class="prefix__cls-2" data-name="Ellipse 391" transform="translate(503 412)">
+            <circle cx="4" cy="4" r="4" class="prefix__cls-3"/>
+            <circle cx="4" cy="4" r="3.5" class="prefix__cls-4"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,780 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="738.143" height="526.15" viewBox="0 0 738.143 526.15">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <rect id="prefix__Rectangle_1238" width="50" height="61" class="prefix__cls-1" data-name="Rectangle 1238" rx="4" transform="translate(0 .111)"/>
+        </clipPath>
+        <clipPath id="prefix__clip-path-2">
+            <rect id="prefix__Rectangle_1241" width="51" height="61" class="prefix__cls-1" data-name="Rectangle 1241" rx="4" transform="translate(.037 -.113)"/>
+        </clipPath>
+        <clipPath id="prefix__clip-path-3">
+            <rect id="prefix__Rectangle_1237" width="174" height="61" class="prefix__cls-3" data-name="Rectangle 1237" rx="4" transform="translate(.037 .111)"/>
+        </clipPath>
+        <clipPath id="prefix__clip-path-4">
+            <rect id="prefix__Rectangle_1239" width="76" height="60" class="prefix__cls-1" data-name="Rectangle 1239" rx="4" transform="translate(0 .018)"/>
+        </clipPath>
+        <clipPath id="prefix__clip-path-5">
+            <rect id="prefix__Rectangle_1237-2" width="101" height="61" fill="#dff6f8" stroke="#a6e3e9" data-name="Rectangle 1237" rx="4" transform="translate(0 -.033)"/>
+        </clipPath>
+        <clipPath id="prefix__clip-path-6">
+            <rect id="prefix__Rectangle_1237-3" width="25" height="61" class="prefix__cls-3" data-name="Rectangle 1237" rx="4" transform="translate(0 -.113)"/>
+        </clipPath>
+        <clipPath id="prefix__clip-path-7">
+            <rect id="prefix__Rectangle_1237-4" width="25" height="61" class="prefix__cls-3" data-name="Rectangle 1237" rx="4" transform="translate(.037 .031)"/>
+        </clipPath>
+        <clipPath id="prefix__clip-path-8">
+            <rect id="prefix__Rectangle_1242" width="51" height="61" class="prefix__cls-1" data-name="Rectangle 1242" rx="4" transform="translate(.037 -.033)"/>
+        </clipPath>
+        <filter id="prefix__Union_6" width="392.17" height="495.057" x="345.974" y="31.093" filterUnits="userSpaceOnUse">
+            <feOffset dy="10"/>
+            <feGaussianBlur result="blur" stdDeviation="20"/>
+            <feFlood flood-opacity=".251"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <style>
+            .prefix__cls-1{fill:#4954cb}.prefix__cls-1,.prefix__cls-3{stroke:#c89fff}.prefix__cls-11,.prefix__cls-17,.prefix__cls-2,.prefix__cls-23,.prefix__cls-30,.prefix__cls-38,.prefix__cls-45,.prefix__cls-50,.prefix__cls-59{fill:none}.prefix__cls-3{fill:#d7c2f0}.prefix__cls-59{stroke:#ddd}.prefix__cls-6{fill:#ed4d67}.prefix__cls-39{opacity:.6}.prefix__cls-10{opacity:.2}.prefix__cls-11{stroke:#7e88f4}.prefix__cls-41,.prefix__cls-57{font-size:12px}.prefix__cls-41,.prefix__cls-53,.prefix__cls-58{font-family:Roboto-Bold,Roboto;font-weight:700}.prefix__cls-42{font-size:22px;font-family:Roboto-Black,Roboto;font-weight:800}.prefix__cls-17{stroke:#cc9361}.prefix__cls-23{stroke:#83ba86}.prefix__cls-29{opacity:.1}.prefix__cls-30{stroke:#915439}.prefix__cls-38{stroke:#3e3b8e}.prefix__cls-39,.prefix__cls-40{fill:#fff3cb}.prefix__cls-39{stroke:#decf9b}.prefix__cls-41,.prefix__cls-42{fill:#7e6a27}.prefix__cls-44{opacity:.115}.prefix__cls-45{stroke:#7e6a27}.prefix__cls-50{stroke:#773242}.prefix__cls-53,.prefix__cls-58{fill:#444}.prefix__cls-53{font-size:20px;opacity:.144}.prefix__cls-57{fill:#666;font-family:Roboto-Regular,Roboto}.prefix__cls-58{font-size:18px}.prefix__cls-59{stroke-dasharray:4}.prefix__cls-60,.prefix__cls-62,.prefix__cls-63{stroke:none}.prefix__cls-62{fill:#9fcbff}.prefix__cls-63{fill:#decf9b}
+        </style>
+    </defs>
+    <g id="prefix__Group_12224" data-name="Group 12224" transform="translate(-740 -262)">
+        <g id="prefix__Group_5478" data-name="Group 5478" transform="rotate(90 396.625 658.626)">
+            <path id="prefix__Line_357" fill="none" stroke="#ddd" stroke-dasharray="2" d="M0 0L0 307.141" data-name="Line 357" transform="translate(4.562 4.562)"/>
+            <path id="prefix__Path_2685" d="M5.068 0A5.068 5.068 0 1 1 0 5.068 5.068 5.068 0 0 1 5.068 0z" class="prefix__cls-6" data-name="Path 2685" transform="translate(0 305.114)"/>
+            <path id="prefix__Path_2997" d="M5.068 0A5.068 5.068 0 1 1 0 5.068 5.068 5.068 0 0 1 5.068 0z" class="prefix__cls-6" data-name="Path 2997"/>
+        </g>
+        <g id="prefix__Group_5732" data-name="Group 5732" transform="translate(740 327.888)">
+            <g id="prefix__Rectangle_1178" fill="#d8dcff" stroke="#9fa7ff" data-name="Rectangle 1178" opacity="0.6" transform="translate(0 .111)">
+                <rect width="253" height="61" class="prefix__cls-60" rx="4"/>
+                <rect width="252" height="60" x=".5" y=".5" class="prefix__cls-2" rx="3.5"/>
+            </g>
+            <g id="prefix__Group_5654" data-name="Group 5654">
+                <g id="prefix__Rectangle_1218" fill="#d8dcff" stroke="#9fa7ff" data-name="Rectangle 1218" transform="translate(0 .111)">
+                    <rect width="51" height="61" class="prefix__cls-60" rx="4"/>
+                    <rect width="50" height="60" x=".5" y=".5" class="prefix__cls-2" rx="3.5"/>
+                </g>
+                <g id="prefix__Mask_Group_22" clip-path="url(#prefix__clip-path)" data-name="Mask Group 22">
+                    <g id="prefix__Repeat_Grid_57" class="prefix__cls-10" data-name="Repeat Grid 57">
+                        <g transform="translate(-60.288 -3.312) translate(-7.912 -22.912)">
+                            <path id="prefix__Line_1232" d="M0 0L0 94" class="prefix__cls-11" data-name="Line 1232" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.288 -3.312) translate(2.088 -22.912)">
+                            <path id="prefix__Line_1233" d="M0 0L0 94" class="prefix__cls-11" data-name="Line 1233" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.288 -3.312) translate(12.088 -22.912)">
+                            <path id="prefix__Line_1234" d="M0 0L0 94" class="prefix__cls-11" data-name="Line 1234" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.288 -3.312) translate(22.088 -22.912)">
+                            <path id="prefix__Line_1235" d="M0 0L0 94" class="prefix__cls-11" data-name="Line 1235" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.288 -3.312) translate(32.088 -22.912)">
+                            <path id="prefix__Line_1236" d="M0 0L0 94" class="prefix__cls-11" data-name="Line 1236" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.288 -3.312) translate(42.088 -22.912)">
+                            <path id="prefix__Line_1237" d="M0 0L0 94" class="prefix__cls-11" data-name="Line 1237" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.288 -3.312) translate(52.088 -22.912)">
+                            <path id="prefix__Line_1238" d="M0 0L0 94" class="prefix__cls-11" data-name="Line 1238" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.288 -3.312) translate(62.088 -22.912)">
+                            <path id="prefix__Line_1239" d="M0 0L0 94" class="prefix__cls-11" data-name="Line 1239" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.288 -3.312) translate(72.088 -22.912)">
+                            <path id="prefix__Line_1240" d="M0 0L0 94" class="prefix__cls-11" data-name="Line 1240" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.288 -3.312) translate(82.088 -22.912)">
+                            <path id="prefix__Line_1241" d="M0 0L0 94" class="prefix__cls-11" data-name="Line 1241" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.288 -3.312) translate(92.088 -22.912)">
+                            <path id="prefix__Line_1242" d="M0 0L0 94" class="prefix__cls-11" data-name="Line 1242" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.288 -3.312) translate(102.088 -22.912)">
+                            <path id="prefix__Line_1243" d="M0 0L0 94" class="prefix__cls-11" data-name="Line 1243" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.288 -3.312) translate(112.088 -22.912)">
+                            <path id="prefix__Line_1244" d="M0 0L0 94" class="prefix__cls-11" data-name="Line 1244" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.288 -3.312) translate(122.088 -22.912)">
+                            <path id="prefix__Line_1245" d="M0 0L0 94" class="prefix__cls-11" data-name="Line 1245" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.288 -3.312) translate(132.088 -22.912)">
+                            <path id="prefix__Line_1246" d="M0 0L0 94" class="prefix__cls-11" data-name="Line 1246" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.288 -3.312) translate(142.088 -22.912)">
+                            <path id="prefix__Line_1247" d="M0 0L0 94" class="prefix__cls-11" data-name="Line 1247" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.288 -3.312) translate(152.088 -22.912)">
+                            <path id="prefix__Line_1248" d="M0 0L0 94" class="prefix__cls-11" data-name="Line 1248" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.288 -3.312) translate(162.088 -22.912)">
+                            <path id="prefix__Line_1249" d="M0 0L0 94" class="prefix__cls-11" data-name="Line 1249" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.288 -3.312) translate(172.088 -22.912)">
+                            <path id="prefix__Line_1250" d="M0 0L0 94" class="prefix__cls-11" data-name="Line 1250" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="prefix__Group_5369" fill="#454d9f" data-name="Group 5369" transform="translate(10.137 8.109)">
+                <text id="prefix__Introduction" font-family="Roboto-Bold, Roboto" font-size="12px" font-weight="700" transform="translate(32.863 13.002)">
+                    <tspan x="-33.079" y="0">Introduction</tspan>
+                </text>
+                <text id="prefix___20_" data-name="20%" font-family="Roboto-Black, Roboto" font-size="22px" font-weight="800" transform="translate(20.863 39.002)">
+                    <tspan x="-20.91" y="0">20%</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="prefix__Group_5748" data-name="Group 5748" transform="translate(1033.964 567.114)">
+            <g id="prefix__Rectangle_1178-2" fill="#fcdbbe" stroke="#eaad78" data-name="Rectangle 1178" opacity="0.6" transform="translate(.037 -.113)">
+                <rect width="253" height="61" class="prefix__cls-60" rx="4"/>
+                <rect width="252" height="60" x=".5" y=".5" class="prefix__cls-2" rx="3.5"/>
+            </g>
+            <g id="prefix__Group_5643" data-name="Group 5643">
+                <g id="prefix__Rectangle_1218-2" fill="#fcdbbe" stroke="#eaad78" data-name="Rectangle 1218" transform="translate(.037 -.113)">
+                    <rect width="51" height="61" class="prefix__cls-60" rx="4"/>
+                    <rect width="50" height="60" x=".5" y=".5" class="prefix__cls-2" rx="3.5"/>
+                </g>
+                <g id="prefix__Mask_Group_25" clip-path="url(#prefix__clip-path-2)" data-name="Mask Group 25">
+                    <g id="prefix__Repeat_Grid_60" class="prefix__cls-10" data-name="Repeat Grid 60">
+                        <g transform="translate(-60.789 -3.312) translate(-7.912 -22.912)">
+                            <path id="prefix__Line_1289" d="M0 0L0 94" class="prefix__cls-17" data-name="Line 1289" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.789 -3.312) translate(2.088 -22.912)">
+                            <path id="prefix__Line_1290" d="M0 0L0 94" class="prefix__cls-17" data-name="Line 1290" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.789 -3.312) translate(12.088 -22.912)">
+                            <path id="prefix__Line_1291" d="M0 0L0 94" class="prefix__cls-17" data-name="Line 1291" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.789 -3.312) translate(22.088 -22.912)">
+                            <path id="prefix__Line_1292" d="M0 0L0 94" class="prefix__cls-17" data-name="Line 1292" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.789 -3.312) translate(32.088 -22.912)">
+                            <path id="prefix__Line_1293" d="M0 0L0 94" class="prefix__cls-17" data-name="Line 1293" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.789 -3.312) translate(42.088 -22.912)">
+                            <path id="prefix__Line_1294" d="M0 0L0 94" class="prefix__cls-17" data-name="Line 1294" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.789 -3.312) translate(52.088 -22.912)">
+                            <path id="prefix__Line_1295" d="M0 0L0 94" class="prefix__cls-17" data-name="Line 1295" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.789 -3.312) translate(62.088 -22.912)">
+                            <path id="prefix__Line_1296" d="M0 0L0 94" class="prefix__cls-17" data-name="Line 1296" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.789 -3.312) translate(72.088 -22.912)">
+                            <path id="prefix__Line_1297" d="M0 0L0 94" class="prefix__cls-17" data-name="Line 1297" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.789 -3.312) translate(82.088 -22.912)">
+                            <path id="prefix__Line_1298" d="M0 0L0 94" class="prefix__cls-17" data-name="Line 1298" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.789 -3.312) translate(92.088 -22.912)">
+                            <path id="prefix__Line_1299" d="M0 0L0 94" class="prefix__cls-17" data-name="Line 1299" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.789 -3.312) translate(102.088 -22.912)">
+                            <path id="prefix__Line_1300" d="M0 0L0 94" class="prefix__cls-17" data-name="Line 1300" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.789 -3.312) translate(112.088 -22.912)">
+                            <path id="prefix__Line_1301" d="M0 0L0 94" class="prefix__cls-17" data-name="Line 1301" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.789 -3.312) translate(122.088 -22.912)">
+                            <path id="prefix__Line_1302" d="M0 0L0 94" class="prefix__cls-17" data-name="Line 1302" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.789 -3.312) translate(132.088 -22.912)">
+                            <path id="prefix__Line_1303" d="M0 0L0 94" class="prefix__cls-17" data-name="Line 1303" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.789 -3.312) translate(142.088 -22.912)">
+                            <path id="prefix__Line_1304" d="M0 0L0 94" class="prefix__cls-17" data-name="Line 1304" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.789 -3.312) translate(152.088 -22.912)">
+                            <path id="prefix__Line_1305" d="M0 0L0 94" class="prefix__cls-17" data-name="Line 1305" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.789 -3.312) translate(162.088 -22.912)">
+                            <path id="prefix__Line_1306" d="M0 0L0 94" class="prefix__cls-17" data-name="Line 1306" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.789 -3.312) translate(172.088 -22.912)">
+                            <path id="prefix__Line_1307" d="M0 0L0 94" class="prefix__cls-17" data-name="Line 1307" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-60.789 -3.312) translate(182.088 -22.912)">
+                            <path id="prefix__Line_1307-2" d="M0 0L0 94" class="prefix__cls-17" data-name="Line 1307" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="prefix__Group_5369-2" fill="#6a411d" data-name="Group 5369" transform="translate(10.137 8.109)">
+                <text id="prefix__Decision_Making_" data-name="Decision Making" font-family="Roboto-Bold, Roboto" font-size="12px" font-weight="700" transform="translate(-.099 12.777)">
+                    <tspan x="0" y="0">Decision Making</tspan>
+                </text>
+                <text id="prefix___20_2" data-name="20%" font-family="Roboto-Black, Roboto" font-size="22px" font-weight="800" transform="translate(20.9 38.777)">
+                    <tspan x="-20.91" y="0">20%</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="prefix__Group_5761" data-name="Group 5761" transform="translate(1033.964 327.888)">
+            <g id="prefix__Rectangle_1178-3" fill="#e9f8e9" stroke="#afdeb1" data-name="Rectangle 1178" transform="translate(.037 .111)">
+                <rect width="253" height="61" class="prefix__cls-60" rx="4"/>
+                <rect width="252" height="60" x=".5" y=".5" class="prefix__cls-2" rx="3.5"/>
+            </g>
+            <g id="prefix__Path_2944" fill="#d5f7d6" data-name="Path 2944">
+                <path d="M167.546 60.32H6.308c-1.59 0-3.078-.393-4.19-1.108C1.075 58.542.5 57.672.5 56.765V4.055c0-.907.575-1.776 1.618-2.447C3.23.894 4.718.5 6.308.5h161.238c1.59 0 3.078.394 4.19 1.108 1.043.67 1.618 1.54 1.618 2.447v52.71c0 .907-.575 1.776-1.618 2.447-1.112.715-2.6 1.108-4.19 1.108z" class="prefix__cls-60"/>
+                <path fill="#afdeb1" d="M6.308 1c-1.496 0-2.888.365-3.92 1.029C1.87 2.362 1 3.069 1 4.055v52.71c0 .987.87 1.693 1.388 2.026 1.032.664 2.424 1.03 3.92 1.03h161.238c1.496 0 2.888-.366 3.92-1.03.518-.333 1.388-1.04 1.388-2.026V4.055c0-.987-.87-1.693-1.388-2.026-1.032-.664-2.424-1.029-3.92-1.029H6.308m0-1h161.238c3.484 0 6.308 1.815 6.308 4.055v52.71c0 2.24-2.824 4.055-6.308 4.055H6.308C2.824 60.82 0 59.005 0 56.765V4.055C0 1.815 2.824 0 6.308 0z"/>
+            </g>
+            <g id="prefix__Mask_Group_21" clip-path="url(#prefix__clip-path-3)" data-name="Mask Group 21">
+                <g id="prefix__Repeat_Grid_56" class="prefix__cls-10" data-name="Repeat Grid 56">
+                    <g transform="translate(-55.109 -3.312) translate(-7.912 -22.912)">
+                        <path id="prefix__Line_1205" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1205" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(2.088 -22.912)">
+                        <path id="prefix__Line_1206" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1206" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(12.088 -22.912)">
+                        <path id="prefix__Line_1207" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1207" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(22.088 -22.912)">
+                        <path id="prefix__Line_1208" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1208" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(32.088 -22.912)">
+                        <path id="prefix__Line_1209" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1209" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(42.088 -22.912)">
+                        <path id="prefix__Line_1210" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1210" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(52.088 -22.912)">
+                        <path id="prefix__Line_1211" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1211" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(62.088 -22.912)">
+                        <path id="prefix__Line_1212" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1212" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(72.088 -22.912)">
+                        <path id="prefix__Line_1213" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1213" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(82.088 -22.912)">
+                        <path id="prefix__Line_1214" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1214" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(92.088 -22.912)">
+                        <path id="prefix__Line_1215" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1215" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(102.088 -22.912)">
+                        <path id="prefix__Line_1216" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1216" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(112.088 -22.912)">
+                        <path id="prefix__Line_1217" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1217" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(122.088 -22.912)">
+                        <path id="prefix__Line_1218" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1218" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(132.088 -22.912)">
+                        <path id="prefix__Line_1219" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1219" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(142.088 -22.912)">
+                        <path id="prefix__Line_1220" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1220" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(152.088 -22.912)">
+                        <path id="prefix__Line_1221" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1221" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(162.088 -22.912)">
+                        <path id="prefix__Line_1222" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1222" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(172.088 -22.912)">
+                        <path id="prefix__Line_1223" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1223" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(182.088 -22.912)">
+                        <path id="prefix__Line_1223-2" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1223" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(192.088 -22.912)">
+                        <path id="prefix__Line_1223-3" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1223" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(202.088 -22.912)">
+                        <path id="prefix__Line_1223-4" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1223" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(212.088 -22.912)">
+                        <path id="prefix__Line_1223-5" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1223" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(222.088 -22.912)">
+                        <path id="prefix__Line_1223-6" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1223" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(232.088 -22.912)">
+                        <path id="prefix__Line_1223-7" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1223" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(242.088 -22.912)">
+                        <path id="prefix__Line_1223-8" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1223" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-55.109 -3.312) translate(252.088 -22.912)">
+                        <path id="prefix__Line_1223-9" d="M0 0L0 94" class="prefix__cls-23" data-name="Line 1223" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                </g>
+            </g>
+            <g id="prefix__Group_5369-3" fill="#4d7b62" data-name="Group 5369" transform="translate(10.137 8.109)">
+                <text id="prefix__Lead_Identifiers_" data-name="Lead Identifiers" font-family="Roboto-Bold, Roboto" font-size="12px" font-weight="700" transform="translate(-.099 13.002)">
+                    <tspan x="0" y="0">Lead Identifiers</tspan>
+                </text>
+                <text id="prefix___70_" data-name="70%" font-family="Roboto-Black, Roboto" font-size="22px" font-weight="800" transform="translate(-.1 39.002)">
+                    <tspan x="0" y="0">70%</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="prefix__Group_5762" data-name="Group 5762" transform="translate(740 407.968)">
+            <g id="prefix__Rectangle_1178-4" fill="#ffe5d8" stroke="#ffb99f" data-name="Rectangle 1178" opacity="0.6" transform="translate(0 .031)">
+                <rect width="253" height="61" class="prefix__cls-60" rx="4"/>
+                <rect width="252" height="60" x=".5" y=".5" class="prefix__cls-2" rx="3.5"/>
+            </g>
+            <g id="prefix__Group_5643-2" data-name="Group 5643">
+                <g id="prefix__Rectangle_1218-3" fill="#fbe1d5" stroke="#feb89e" data-name="Rectangle 1218" transform="translate(0 .031)">
+                    <rect width="76" height="61" class="prefix__cls-60" rx="4"/>
+                    <rect width="75" height="60" x=".5" y=".5" class="prefix__cls-2" rx="3.5"/>
+                </g>
+                <g id="prefix__Mask_Group_23" clip-path="url(#prefix__clip-path-4)" data-name="Mask Group 23" transform="translate(0 1.014)">
+                    <g id="prefix__Repeat_Grid_58" class="prefix__cls-29" data-name="Repeat Grid 58">
+                        <g transform="translate(-91.666 -3.257) translate(-7.912 -22.912)">
+                            <path id="prefix__Line_1251" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1251" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(2.088 -22.912)">
+                            <path id="prefix__Line_1252" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1252" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(12.088 -22.912)">
+                            <path id="prefix__Line_1253" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1253" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(22.088 -22.912)">
+                            <path id="prefix__Line_1254" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1254" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(32.088 -22.912)">
+                            <path id="prefix__Line_1255" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1255" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(42.088 -22.912)">
+                            <path id="prefix__Line_1256" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1256" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(52.088 -22.912)">
+                            <path id="prefix__Line_1257" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1257" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(62.088 -22.912)">
+                            <path id="prefix__Line_1258" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1258" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(72.088 -22.912)">
+                            <path id="prefix__Line_1259" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1259" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(82.088 -22.912)">
+                            <path id="prefix__Line_1260" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1260" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(92.088 -22.912)">
+                            <path id="prefix__Line_1261" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1261" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(102.088 -22.912)">
+                            <path id="prefix__Line_1262" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1262" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(112.088 -22.912)">
+                            <path id="prefix__Line_1263" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1263" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(122.088 -22.912)">
+                            <path id="prefix__Line_1264" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1264" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(132.088 -22.912)">
+                            <path id="prefix__Line_1265" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1265" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(142.088 -22.912)">
+                            <path id="prefix__Line_1266" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1266" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(152.088 -22.912)">
+                            <path id="prefix__Line_1267" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1267" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(162.088 -22.912)">
+                            <path id="prefix__Line_1268" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1268" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(172.088 -22.912)">
+                            <path id="prefix__Line_1269" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1269" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(182.088 -22.912)">
+                            <path id="prefix__Line_1269-2" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1269" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(192.088 -22.912)">
+                            <path id="prefix__Line_1269-3" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1269" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(202.088 -22.912)">
+                            <path id="prefix__Line_1269-4" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1269" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(212.088 -22.912)">
+                            <path id="prefix__Line_1269-5" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1269" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(222.088 -22.912)">
+                            <path id="prefix__Line_1269-6" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1269" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(232.088 -22.912)">
+                            <path id="prefix__Line_1269-7" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1269" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(242.088 -22.912)">
+                            <path id="prefix__Line_1269-8" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1269" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(252.088 -22.912)">
+                            <path id="prefix__Line_1269-9" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1269" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(262.088 -22.912)">
+                            <path id="prefix__Line_1269-10" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1269" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-91.666 -3.257) translate(272.088 -22.912)">
+                            <path id="prefix__Line_1269-11" d="M0 0L0 94" class="prefix__cls-30" data-name="Line 1269" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="prefix__Group_5369-4" fill="#915439" data-name="Group 5369" transform="translate(10.137 8.109)">
+                <text id="prefix__Lead_Qualification_" data-name="Lead Qualification" font-family="Roboto-Bold, Roboto" font-size="12px" font-weight="700" transform="translate(-.137 12.922)">
+                    <tspan x="0" y="0">Lead Qualification</tspan>
+                </text>
+                <text id="prefix___30_" data-name="30%" font-family="Roboto-Black, Roboto" font-size="22px" font-weight="800" transform="translate(20.863 38.922)">
+                    <tspan x="-20.91" y="0">30%</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="prefix__Group_5763" data-name="Group 5763" transform="translate(740 487.034)">
+            <g id="prefix__Path_2945" fill="#bfdfff" data-name="Path 2945" opacity="0.6">
+                <path d="M249.362 60.32H4.055C2.095 60.32.5 58.725.5 56.765V4.055C.5 2.095 2.095.5 4.055.5h245.307c1.96 0 3.555 1.595 3.555 3.555v52.71c0 1.96-1.595 3.555-3.555 3.555z" class="prefix__cls-60"/>
+                <path d="M4.055 1C2.37 1 1 2.37 1 4.055v52.71c0 1.685 1.37 3.055 3.055 3.055h245.307c1.685 0 3.055-1.37 3.055-3.055V4.055c0-1.685-1.37-3.055-3.055-3.055H4.055m0-1h245.307c2.24 0 4.055 1.815 4.055 4.055v52.71c0 2.24-1.815 4.055-4.055 4.055H4.055C1.815 60.82 0 59.005 0 56.765V4.055C0 1.815 1.815 0 4.055 0z" class="prefix__cls-62"/>
+            </g>
+            <g id="prefix__Path_2944-2" fill="#bfdfff" data-name="Path 2944">
+                <path d="M97.747 60.32H4.634C2.354 60.32.5 58.725.5 56.765V4.055C.5 2.095 2.354.5 4.634.5h93.113c2.279 0 4.133 1.595 4.133 3.555v52.71c0 1.96-1.854 3.555-4.133 3.555z" class="prefix__cls-60"/>
+                <path d="M4.634 1C2.63 1 1 2.37 1 4.055v52.71c0 1.685 1.63 3.055 3.634 3.055h93.113c2.003 0 3.633-1.37 3.633-3.055V4.055C101.38 2.37 99.75 1 97.747 1H4.634m0-1h93.113c2.559 0 4.633 1.815 4.633 4.055v52.71c0 2.24-2.074 4.055-4.633 4.055H4.634C2.074 60.82 0 59.005 0 56.765V4.055C0 1.815 2.075 0 4.634 0z" class="prefix__cls-62"/>
+            </g>
+            <g id="prefix__Group_5369-5" fill="#3c3991" data-name="Group 5369" transform="translate(10.137 8.109)">
+                <text id="prefix__Features" font-family="Roboto-Bold, Roboto" font-size="12px" font-weight="700" transform="translate(-.137 12.855)">
+                    <tspan x="0" y="0">Features</tspan>
+                </text>
+                <text id="prefix___40_" data-name="40%" font-family="Roboto-Black, Roboto" font-size="22px" font-weight="800" transform="translate(-.137 38.855)">
+                    <tspan x="0" y="0">40%</tspan>
+                </text>
+            </g>
+            <g id="prefix__Mask_Group_21-2" clip-path="url(#prefix__clip-path-5)" data-name="Mask Group 21">
+                <g id="prefix__Repeat_Grid_56-2" class="prefix__cls-29" data-name="Repeat Grid 56">
+                    <g transform="translate(-61.445 -3.312) translate(-7.912 -22.912)">
+                        <path id="prefix__Line_1205-2" d="M0 0L0 94" class="prefix__cls-38" data-name="Line 1205" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-61.445 -3.312) translate(2.088 -22.912)">
+                        <path id="prefix__Line_1206-2" d="M0 0L0 94" class="prefix__cls-38" data-name="Line 1206" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-61.445 -3.312) translate(12.088 -22.912)">
+                        <path id="prefix__Line_1207-2" d="M0 0L0 94" class="prefix__cls-38" data-name="Line 1207" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-61.445 -3.312) translate(22.088 -22.912)">
+                        <path id="prefix__Line_1208-2" d="M0 0L0 94" class="prefix__cls-38" data-name="Line 1208" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-61.445 -3.312) translate(32.088 -22.912)">
+                        <path id="prefix__Line_1209-2" d="M0 0L0 94" class="prefix__cls-38" data-name="Line 1209" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-61.445 -3.312) translate(42.088 -22.912)">
+                        <path id="prefix__Line_1210-2" d="M0 0L0 94" class="prefix__cls-38" data-name="Line 1210" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-61.445 -3.312) translate(52.088 -22.912)">
+                        <path id="prefix__Line_1211-2" d="M0 0L0 94" class="prefix__cls-38" data-name="Line 1211" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-61.445 -3.312) translate(62.088 -22.912)">
+                        <path id="prefix__Line_1212-2" d="M0 0L0 94" class="prefix__cls-38" data-name="Line 1212" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-61.445 -3.312) translate(72.088 -22.912)">
+                        <path id="prefix__Line_1213-2" d="M0 0L0 94" class="prefix__cls-38" data-name="Line 1213" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-61.445 -3.312) translate(82.088 -22.912)">
+                        <path id="prefix__Line_1214-2" d="M0 0L0 94" class="prefix__cls-38" data-name="Line 1214" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-61.445 -3.312) translate(92.088 -22.912)">
+                        <path id="prefix__Line_1215-2" d="M0 0L0 94" class="prefix__cls-38" data-name="Line 1215" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-61.445 -3.312) translate(102.088 -22.912)">
+                        <path id="prefix__Line_1216-2" d="M0 0L0 94" class="prefix__cls-38" data-name="Line 1216" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-61.445 -3.312) translate(112.088 -22.912)">
+                        <path id="prefix__Line_1217-2" d="M0 0L0 94" class="prefix__cls-38" data-name="Line 1217" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-61.445 -3.312) translate(122.088 -22.912)">
+                        <path id="prefix__Line_1218-2" d="M0 0L0 94" class="prefix__cls-38" data-name="Line 1218" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-61.445 -3.312) translate(132.088 -22.912)">
+                        <path id="prefix__Line_1219-2" d="M0 0L0 94" class="prefix__cls-38" data-name="Line 1219" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-61.445 -3.312) translate(142.088 -22.912)">
+                        <path id="prefix__Line_1220-2" d="M0 0L0 94" class="prefix__cls-38" data-name="Line 1220" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-61.445 -3.312) translate(152.088 -22.912)">
+                        <path id="prefix__Line_1221-2" d="M0 0L0 94" class="prefix__cls-38" data-name="Line 1221" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-61.445 -3.312) translate(162.088 -22.912)">
+                        <path id="prefix__Line_1222-2" d="M0 0L0 94" class="prefix__cls-38" data-name="Line 1222" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-61.445 -3.312) translate(172.088 -22.912)">
+                        <path id="prefix__Line_1223-10" d="M0 0L0 94" class="prefix__cls-38" data-name="Line 1223" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="prefix__Group_5764" data-name="Group 5764" transform="translate(740 567.114)">
+            <g id="prefix__Rectangle_1178-5" class="prefix__cls-39" data-name="Rectangle 1178" transform="translate(0 -.113)">
+                <rect width="253" height="61" class="prefix__cls-60" rx="4"/>
+                <rect width="252" height="60" x=".5" y=".5" class="prefix__cls-2" rx="3.5"/>
+            </g>
+            <g id="prefix__Path_2944-3" class="prefix__cls-40" data-name="Path 2944">
+                <path d="M21.721 60.32H4.634C2.354 60.32.5 58.725.5 56.765V4.055C.5 2.095 2.354.5 4.634.5H21.72c2.28 0 4.134 1.595 4.134 3.555v52.71c0 1.96-1.854 3.555-4.134 3.555z" class="prefix__cls-60"/>
+                <path d="M4.634 1C2.63 1 1 2.37 1 4.055v52.71c0 1.685 1.63 3.055 3.634 3.055H21.72c2.004 0 3.634-1.37 3.634-3.055V4.055C25.355 2.37 23.725 1 21.721 1H4.634m0-1H21.72c2.56 0 4.634 1.815 4.634 4.055v52.71c0 2.24-2.074 4.055-4.634 4.055H4.634C2.074 60.82 0 59.005 0 56.765V4.055C0 1.815 2.075 0 4.634 0z" class="prefix__cls-63"/>
+            </g>
+            <g id="prefix__Group_5369-6" data-name="Group 5369" transform="translate(10.137 8.109)">
+                <text id="prefix__Brand" class="prefix__cls-41" transform="translate(-.137 12.777)">
+                    <tspan x="0" y="0">Brand</tspan>
+                </text>
+                <text id="prefix___10_" class="prefix__cls-42" data-name="10%" transform="translate(-.137 38.777)">
+                    <tspan x="0" y="0">10%</tspan>
+                </text>
+            </g>
+            <g id="prefix__Mask_Group_21-3" clip-path="url(#prefix__clip-path-6)" data-name="Mask Group 21">
+                <g id="prefix__Repeat_Grid_56-3" class="prefix__cls-44" data-name="Repeat Grid 56">
+                    <g transform="translate(-60.949 -3.312) translate(-7.912 -22.912)">
+                        <path id="prefix__Line_1205-3" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1205" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(2.088 -22.912)">
+                        <path id="prefix__Line_1206-3" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1206" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(12.088 -22.912)">
+                        <path id="prefix__Line_1207-3" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1207" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(22.088 -22.912)">
+                        <path id="prefix__Line_1208-3" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1208" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(32.088 -22.912)">
+                        <path id="prefix__Line_1209-3" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1209" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(42.088 -22.912)">
+                        <path id="prefix__Line_1210-3" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1210" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(52.088 -22.912)">
+                        <path id="prefix__Line_1211-3" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1211" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(62.088 -22.912)">
+                        <path id="prefix__Line_1212-3" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1212" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(72.088 -22.912)">
+                        <path id="prefix__Line_1213-3" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1213" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(82.088 -22.912)">
+                        <path id="prefix__Line_1214-3" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1214" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(92.088 -22.912)">
+                        <path id="prefix__Line_1215-3" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1215" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(102.088 -22.912)">
+                        <path id="prefix__Line_1216-3" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1216" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(112.088 -22.912)">
+                        <path id="prefix__Line_1217-3" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1217" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(122.088 -22.912)">
+                        <path id="prefix__Line_1218-3" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1218" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(132.088 -22.912)">
+                        <path id="prefix__Line_1219-3" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1219" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(142.088 -22.912)">
+                        <path id="prefix__Line_1220-3" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1220" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(152.088 -22.912)">
+                        <path id="prefix__Line_1221-3" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1221" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="prefix__Group_5765" data-name="Group 5765" transform="translate(1033.964 407.968)">
+            <g id="prefix__Rectangle_1178-6" class="prefix__cls-39" data-name="Rectangle 1178" transform="translate(.037 .031)">
+                <rect width="253" height="61" class="prefix__cls-60" rx="4"/>
+                <rect width="252" height="60" x=".5" y=".5" class="prefix__cls-2" rx="3.5"/>
+            </g>
+            <g id="prefix__Path_2944-4" class="prefix__cls-40" data-name="Path 2944">
+                <path d="M21.721 60.32H4.634C2.354 60.32.5 58.725.5 56.765V4.055C.5 2.095 2.354.5 4.634.5H21.72c2.28 0 4.134 1.595 4.134 3.555v52.71c0 1.96-1.854 3.555-4.134 3.555z" class="prefix__cls-60"/>
+                <path d="M4.634 1C2.63 1 1 2.37 1 4.055v52.71c0 1.685 1.63 3.055 3.634 3.055H21.72c2.004 0 3.634-1.37 3.634-3.055V4.055C25.355 2.37 23.725 1 21.721 1H4.634m0-1H21.72c2.56 0 4.634 1.815 4.634 4.055v52.71c0 2.24-2.074 4.055-4.634 4.055H4.634C2.074 60.82 0 59.005 0 56.765V4.055C0 1.815 2.075 0 4.634 0z" class="prefix__cls-63"/>
+            </g>
+            <g id="prefix__Group_5369-7" data-name="Group 5369" transform="translate(10.137 8.109)">
+                <text id="prefix__Brand-2" class="prefix__cls-41" data-name="Brand" transform="translate(-.099 12.922)">
+                    <tspan x="0" y="0">Brand</tspan>
+                </text>
+                <text id="prefix___10_2" class="prefix__cls-42" data-name="10%" transform="translate(-.1 38.922)">
+                    <tspan x="0" y="0">10%</tspan>
+                </text>
+            </g>
+            <g id="prefix__Mask_Group_21-4" clip-path="url(#prefix__clip-path-7)" data-name="Mask Group 21">
+                <g id="prefix__Repeat_Grid_56-4" class="prefix__cls-44" data-name="Repeat Grid 56">
+                    <g transform="translate(-60.949 -3.312) translate(-7.912 -22.912)">
+                        <path id="prefix__Line_1205-4" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1205" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(2.088 -22.912)">
+                        <path id="prefix__Line_1206-4" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1206" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(12.088 -22.912)">
+                        <path id="prefix__Line_1207-4" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1207" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(22.088 -22.912)">
+                        <path id="prefix__Line_1208-4" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1208" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(32.088 -22.912)">
+                        <path id="prefix__Line_1209-4" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1209" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(42.088 -22.912)">
+                        <path id="prefix__Line_1210-4" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1210" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(52.088 -22.912)">
+                        <path id="prefix__Line_1211-4" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1211" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(62.088 -22.912)">
+                        <path id="prefix__Line_1212-4" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1212" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(72.088 -22.912)">
+                        <path id="prefix__Line_1213-4" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1213" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(82.088 -22.912)">
+                        <path id="prefix__Line_1214-4" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1214" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(92.088 -22.912)">
+                        <path id="prefix__Line_1215-4" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1215" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(102.088 -22.912)">
+                        <path id="prefix__Line_1216-4" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1216" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(112.088 -22.912)">
+                        <path id="prefix__Line_1217-4" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1217" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(122.088 -22.912)">
+                        <path id="prefix__Line_1218-4" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1218" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(132.088 -22.912)">
+                        <path id="prefix__Line_1219-4" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1219" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(142.088 -22.912)">
+                        <path id="prefix__Line_1220-4" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1220" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                    <g transform="translate(-60.949 -3.312) translate(152.088 -22.912)">
+                        <path id="prefix__Line_1221-4" d="M0 0L0 94" class="prefix__cls-45" data-name="Line 1221" transform="rotate(45 9.282 101.845)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="prefix__Group_5766" data-name="Group 5766" transform="translate(1033.964 487.034)">
+            <g id="prefix__Rectangle_1178-7" fill="#fad2dc" stroke="#f8a7bc" data-name="Rectangle 1178" opacity="0.6" transform="translate(.037 -.033)">
+                <rect width="253" height="61" class="prefix__cls-60" rx="4"/>
+                <rect width="252" height="60" x=".5" y=".5" class="prefix__cls-2" rx="3.5"/>
+            </g>
+            <g id="prefix__Group_5643-3" data-name="Group 5643">
+                <g id="prefix__Path_2943" fill="#fad2dc" data-name="Path 2943">
+                    <path d="M46.831 60.32H4.866C2.458 60.32.5 58.725.5 56.765V4.055C.5 2.095 2.458.5 4.866.5H46.83c2.408 0 4.366 1.595 4.366 3.555v52.71c0 1.96-1.958 3.555-4.366 3.555z" class="prefix__cls-60"/>
+                    <path fill="#f8a7bc" d="M4.866 1C2.734 1 1 2.37 1 4.055v52.71c0 1.685 1.734 3.055 3.866 3.055H46.83c2.132 0 3.866-1.37 3.866-3.055V4.055C50.697 2.37 48.963 1 46.831 1H4.866m0-1H46.83c2.688 0 4.866 1.815 4.866 4.055v52.71c0 2.24-2.178 4.055-4.866 4.055H4.866C2.178 60.82 0 59.005 0 56.765V4.055C0 1.815 2.178 0 4.866 0z"/>
+                </g>
+                <g id="prefix__Mask_Group_26" clip-path="url(#prefix__clip-path-8)" data-name="Mask Group 26">
+                    <g id="prefix__Repeat_Grid_61" class="prefix__cls-29" data-name="Repeat Grid 61">
+                        <g transform="translate(-61.269 -3.312) translate(-7.912 -22.912)">
+                            <path id="prefix__Line_1308" d="M0 0L0 94" class="prefix__cls-50" data-name="Line 1308" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-61.269 -3.312) translate(2.088 -22.912)">
+                            <path id="prefix__Line_1309" d="M0 0L0 94" class="prefix__cls-50" data-name="Line 1309" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-61.269 -3.312) translate(12.088 -22.912)">
+                            <path id="prefix__Line_1310" d="M0 0L0 94" class="prefix__cls-50" data-name="Line 1310" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-61.269 -3.312) translate(22.088 -22.912)">
+                            <path id="prefix__Line_1311" d="M0 0L0 94" class="prefix__cls-50" data-name="Line 1311" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-61.269 -3.312) translate(32.088 -22.912)">
+                            <path id="prefix__Line_1312" d="M0 0L0 94" class="prefix__cls-50" data-name="Line 1312" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-61.269 -3.312) translate(42.088 -22.912)">
+                            <path id="prefix__Line_1313" d="M0 0L0 94" class="prefix__cls-50" data-name="Line 1313" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-61.269 -3.312) translate(52.088 -22.912)">
+                            <path id="prefix__Line_1314" d="M0 0L0 94" class="prefix__cls-50" data-name="Line 1314" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-61.269 -3.312) translate(62.088 -22.912)">
+                            <path id="prefix__Line_1315" d="M0 0L0 94" class="prefix__cls-50" data-name="Line 1315" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-61.269 -3.312) translate(72.088 -22.912)">
+                            <path id="prefix__Line_1316" d="M0 0L0 94" class="prefix__cls-50" data-name="Line 1316" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-61.269 -3.312) translate(82.088 -22.912)">
+                            <path id="prefix__Line_1317" d="M0 0L0 94" class="prefix__cls-50" data-name="Line 1317" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-61.269 -3.312) translate(92.088 -22.912)">
+                            <path id="prefix__Line_1318" d="M0 0L0 94" class="prefix__cls-50" data-name="Line 1318" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-61.269 -3.312) translate(102.088 -22.912)">
+                            <path id="prefix__Line_1319" d="M0 0L0 94" class="prefix__cls-50" data-name="Line 1319" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-61.269 -3.312) translate(112.088 -22.912)">
+                            <path id="prefix__Line_1320" d="M0 0L0 94" class="prefix__cls-50" data-name="Line 1320" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-61.269 -3.312) translate(122.088 -22.912)">
+                            <path id="prefix__Line_1321" d="M0 0L0 94" class="prefix__cls-50" data-name="Line 1321" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-61.269 -3.312) translate(132.088 -22.912)">
+                            <path id="prefix__Line_1322" d="M0 0L0 94" class="prefix__cls-50" data-name="Line 1322" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-61.269 -3.312) translate(142.088 -22.912)">
+                            <path id="prefix__Line_1323" d="M0 0L0 94" class="prefix__cls-50" data-name="Line 1323" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-61.269 -3.312) translate(152.088 -22.912)">
+                            <path id="prefix__Line_1324" d="M0 0L0 94" class="prefix__cls-50" data-name="Line 1324" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-61.269 -3.312) translate(162.088 -22.912)">
+                            <path id="prefix__Line_1325" d="M0 0L0 94" class="prefix__cls-50" data-name="Line 1325" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-61.269 -3.312) translate(172.088 -22.912)">
+                            <path id="prefix__Line_1326" d="M0 0L0 94" class="prefix__cls-50" data-name="Line 1326" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                        <g transform="translate(-61.269 -3.312) translate(182.088 -22.912)">
+                            <path id="prefix__Line_1326-2" d="M0 0L0 94" class="prefix__cls-50" data-name="Line 1326" transform="rotate(45 9.282 101.845)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="prefix__Group_5369-8" fill="#773242" data-name="Group 5369" transform="translate(10.137 8.109)">
+                <text id="prefix__Lead_Qualification_2" data-name="Lead Qualification" font-family="Roboto-Bold, Roboto" font-size="12px" font-weight="700" transform="translate(-.099 12.855)">
+                    <tspan x="0" y="0">Lead Qualification</tspan>
+                </text>
+                <text id="prefix___20_3" data-name="20%" font-family="Roboto-Black, Roboto" font-size="22px" font-weight="800" transform="translate(20.9 38.855)">
+                    <tspan x="-20.91" y="0">20%</tspan>
+                </text>
+            </g>
+        </g>
+        <text id="prefix___25_" class="prefix__cls-53" data-name="25%" transform="translate(740 296)">
+            <tspan x="0" y="0">25%</tspan>
+        </text>
+        <text id="prefix___50_" class="prefix__cls-53" data-name="50%" transform="translate(1044 296)">
+            <tspan x="0" y="0">50%</tspan>
+        </text>
+        <g id="prefix__Group_11319" data-name="Group 11319" transform="translate(1145.974 343.093)">
+            <g filter="url(#prefix__Union_6)" transform="translate(-405.97 -81.09)">
+                <path id="prefix__Union_6-2" fill="#fff" d="M14.617 375.057a6 6 0 0 1-6-6V38.243L0 30.41l8.617-7.833V6a6 6 0 0 1 6-6h251.554a6 6 0 0 1 6 6v363.057a6 6 0 0 1-6 6z" data-name="Union 6" transform="translate(405.97 81.09)"/>
+            </g>
+            <text id="prefix__Lead_Identifiers_Break-Up" fill="#222" data-name="Lead Identifiers Break-Up" font-family="Roboto-Medium, Roboto" font-size="16px" font-weight="500" transform="translate(28.027 36.906)">
+                <tspan x="0" y="0">Lead Identifiers Break-Up</tspan>
+            </text>
+            <path id="prefix__Path_371" fill="#ddd" d="M2534.856 1157.367a1.053 1.053 0 0 1-1.489 1.489l-4.285-4.285-4.285 4.285a1.053 1.053 0 0 1-1.489-1.489l4.285-4.285-4.285-4.285a1.053 1.053 0 0 1 1.489-1.489l4.285 4.285 4.285-4.285a1.053 1.053 0 0 1 1.489 1.489l-4.285 4.285z" data-name="Path 371" transform="translate(-2283.121 -1121.659)"/>
+            <g id="prefix__Group_11316" data-name="Group 11316" transform="translate(27.37 61.834)">
+                <g id="prefix__Group_5386" data-name="Group 5386" transform="translate(.507)">
+                    <text id="prefix__I_was_curious_to_know_when_you_expect_to_start_using_our_tool" class="prefix__cls-57" data-name="I was curious to know when you expect to start using our tool" transform="translate(.15 25.072)">
+                        <tspan x="0" y="13">I was curious to know when you expect </tspan><tspan x="0" y="29">to start using our tool</tspan>
+                    </text>
+                    <text id="prefix___30_2" class="prefix__cls-58" data-name="30%" transform="translate(.15 .072)">
+                        <tspan x="0" y="19">30%</tspan>
+                    </text>
+                </g>
+                <path id="prefix__Line_1181" d="M0 0L224.021 0" class="prefix__cls-59" data-name="Line 1181" transform="translate(0 81.6)"/>
+            </g>
+            <g id="prefix__Group_11317" data-name="Group 11317" transform="translate(27.37 164.214)">
+                <g id="prefix__Group_5386-2" data-name="Group 5386" transform="translate(.507)">
+                    <text id="prefix__How_much_do_you_spend_right_now_to_improve_your_sales_teams_performance_" class="prefix__cls-57" data-name="How much do you spend right now to improve your sales teams’ performance?" transform="translate(.15 25.691)">
+                        <tspan x="0" y="13">How much do you spend right now to </tspan><tspan x="0" y="29">improve your sales teams’ performance?</tspan>
+                    </text>
+                    <text id="prefix___40_2" class="prefix__cls-58" data-name="40%" transform="translate(.15 -.309)">
+                        <tspan x="0" y="19">40%</tspan>
+                    </text>
+                </g>
+                <path id="prefix__Line_1181-2" d="M0 0L224.021 0" class="prefix__cls-59" data-name="Line 1181" transform="translate(0 81.6)"/>
+            </g>
+            <g id="prefix__Group_11318" data-name="Group 11318" transform="translate(27.876 266.595)">
+                <g id="prefix__Group_5386-3" data-name="Group 5386">
+                    <text id="prefix__What_do_you_expect_to_be_the_outcome_of_better_conversational_intelligence_for_your_reps_" class="prefix__cls-57" data-name="What do you expect to be the outcome of better conversational intelligence for your reps?" transform="translate(.15 25.313)">
+                        <tspan x="0" y="13">What do you expect to be the outcome of </tspan><tspan x="0" y="29">better conversational intelligence for </tspan><tspan x="0" y="45">your reps?</tspan>
+                    </text>
+                    <text id="prefix___30_3" class="prefix__cls-58" data-name="30%" transform="translate(.15 .313)">
+                        <tspan x="0" y="19">30%</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
