@@ -670,11 +670,12 @@ font-family: CoolveticaRg;
 }
 
 .footer-widgets .twitter-widget ul li p {
-  font-size: .85em;
+  font-size: 16px;
+  padding-right: 55px;
 }
 
 .footer-widgets .twitter-widget ul li p a {
-  color: #111 !important;
+  color: #666666 !important;
 }
 
 .footer-widgets .twitter-widget ul li p a:hover {
@@ -5384,4 +5385,14 @@ background-color: none !important;
 .title1{
   font-size: 24px;
   
+}
+
+.social-links{
+  font-size: 27px;
+  color: #cccccc;
+  padding-right: 10px;
+}
+
+.social-links:hover{
+  color: #eeeeee;
 }
